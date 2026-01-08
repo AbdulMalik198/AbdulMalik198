@@ -1,23 +1,44 @@
 # Abdulmalik
 
-Hi, I am Abdul-Malik Alegimenlen
+Hi, I’m Abdul-Malik Alegimenlen, a Software Developer with a strong foundation in web and application development using HTML, CSS, JavaScript, C#, and SQL, combined with a background in data analytics.
 
-As a data analyst, I love digging into data to uncover meaningful insights that help businesses make smarter decisions. I have worked with SQL, Python (Pandas, NumPy, Matplotlib), Excel, and Power BI to clean, analyze, and visualize data turning raw numbers into clear, actionable reports and dashboards.
+I enjoy building software and database-driven applications that turn raw data into useful, real-world functionality. My experience working with SQL, Python, and data visualisation tools allows me to design systems that not only run smoothly, but also produce clear, reliable, and meaningful insights.
 
-What excites me most is finding the story behind the data and presenting it in a way that is easy to understand and act on. Whether it is optimizing queries, building interactive dashboards, or automating data processes, I enjoy the challenge of making data work for real world decisions.
+What excites me most is solving problems through code — whether that’s creating a web interface, connecting it to a database, or writing logic that transforms data into something people can use to make better decisions. I’m passionate about building clean, efficient, and user-focused applications that make information easier to access, understand, and act on.
 
 ---
 
 ### Technical Skills
-SQL (Querying, Joins, Aggregations)
+Programming & Development:
+JavaScript
+C#
+Python (data processing & scripting)
+SQL
 
-Python (Pandas, NumPy, Matplotlib/Seaborn)
+Web & Application Development:
+HTML
+CSS
+Front-End Development
+Back-End Logic
+Database-Driven Applications
 
-Excel (Pivot Tables, VLOOKUP, Data Models)
+Databases & Data:
+SQL Queries (Joins, Aggregations, CRUD)
+Relational Databases
+Data Modelling
+Data Processing
 
-Data Visualization (Tableau, Power BI)
+Data & Analytics Tools:
+Pandas, NumPy
+Power BI
+Tableau
+Excel (Pivot Tables, Lookups, Data Models)
 
-Data Cleaning & EDA (Handling Missing Data, Outliers)
+Development & Workflow:
+Git (Version Control)
+Debugging & Testing
+Data Cleaning & Validation
+Exploratory Data Analysis (EDA)
 
 ---
 
@@ -70,18 +91,6 @@ Data Cleaning & EDA (Handling Missing Data, Outliers)
 - Performed **sentiment analysis** on social media conversations  
 - Tracked **engagement metrics** across platforms  
 - Identified **high performing content types**  
-
-**Tech Stack:**  
-`PowerBI` `Social Listening`  
-
-**Business Impact:**  
-- Increased social media engagement by **25%** through data-driven content strategy  
-
----
-
-###  What I’m Currently Working On
-Building interactive Power BI dashboards for real world datasets.
-Contributing to open-source data projects.
 
 ---
 
