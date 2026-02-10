@@ -94,7 +94,7 @@ Exploratory Data Analysis (EDA)
 
 ---
 
-Let’s connect if you’re as passionate about data as I am!
+Open to connecting with fellow developers and anyone passionate about data‑driven solutions.
 
 🔗 Connect with me on LinkedIn: https://www.linkedin.com/in/abdulmalik-alegimenlen1010/
 
