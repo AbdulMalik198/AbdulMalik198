@@ -44,17 +44,20 @@ Exploratory Data Analysis (EDA)
 
 ### Project Highlights
 
-#### **1. [RDAMP Dimensional Model (PowerBI)](https://github.com/AbdulMalik198/-RDAMP-Dimensional-Model-PowerBI-)**  
+#### **1. Personal Finance Dashboard (Front-End Development)**  
 **Key Achievements:**  
-- Designed a **star schema dimensional model** for optimized analytics  
-- Implemented PowerBI relationships between fact/dimension tables  
-- Enabled **faster query performance** for business reporting  
+- Built a fully responsive **web application** for tracking income, expenses, and spending patterns  
+- Implemented **dynamic DOM manipulation** for real-time balance updates  
+- Integrated **Chart.js** to visualise category-based spending  
+- Added **LocalStorage persistence** to retain user data across sessions  
+- Developed a **CSV export feature** for offline financial analysis  
 
 **Tech Stack:**  
-`PowerBI` `DAX` `Dimensional Modeling` `SQL`  
+`HTML5` `CSS3` `JavaScript (ES6)` `Chart.js`  
 
-**Business Impact:**  
-- Reduced report generation time by **40%** through optimized data modeling  
+**Impact:**  
+- Improved user financial awareness through clear visual insights  
+- Delivered a clean, intuitive UI that supports both desktop and mobile users  
 
 ---
 
