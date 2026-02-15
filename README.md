@@ -44,7 +44,7 @@ Exploratory Data Analysis (EDA)
 
 ### Project Highlights
 
-#### **1. Personal Finance Dashboard (Front-End Development)**  
+#### **1. Personal Finance Dashboard (Front-End Development)[https://github.com/AbdulMalik198/Finance_Dashboard)**  
 **Key Achievements:**  
 - Built a fully responsive **web application** for tracking income, expenses, and spending patterns  
 - Implemented **dynamic DOM manipulation** for real-time balance updates  
