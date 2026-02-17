@@ -61,17 +61,16 @@ Exploratory Data Analysis (EDA)
 
 ---
 
-#### **2. [RDAMP Sales Analysis](https://github.com/AbdulMalik198/RDAMP-Sales-Analysis)**  
+### **2. [Job Application Tracker](https://github.com/AbdulMalik198/job-application-tracker)**  
 **Key Achievements:**  
-- Developed **interactive sales dashboards** with YOY growth analysis  
-- Implemented **RFM (Recency-Frequency-Monetary) analysis** for customer segmentation  
-- Created **what if scenarios** for sales forecasting  
+- Built a **responsive front‑end application** for tracking job applications  
+- Implemented **CRUD functionality** (add, edit, delete) using JavaScript  
+- Added **filtering and sorting** for improved user experience  
+- Integrated **LocalStorage** for persistent client‑side data  
+- Designed a **clean, modern UI** with professional styling  
 
 **Tech Stack:**  
-`PowerBI` `DAX` `SQL` `Sales Analytics`  
-
-**Business Impact:**  
-- Identified **20% revenue growth opportunities** in underperforming regions  
+`HTML` `CSS` `JavaScript` `LocalStorage` `Front‑End Development`
 
 ---
 
