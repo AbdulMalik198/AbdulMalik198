@@ -61,7 +61,7 @@ Exploratory Data Analysis (EDA)
 
 ---
 
-### **2. [Job Application Tracker](https://github.com/AbdulMalik198/Job_Application_Tracker)**  
+#### **2. [Job Application Tracker](https://github.com/AbdulMalik198/Job_Application_Tracker)**  
 **Key Achievements:**  
 - Built a **responsive front‑end application** for tracking job applications  
 - Implemented **CRUD functionality** (add, edit, delete) using JavaScript  
