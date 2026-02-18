@@ -73,8 +73,24 @@ Exploratory Data Analysis (EDA)
 `HTML` `CSS` `JavaScript` `LocalStorage` `Front‑End Development`
 
 ---
+#### **3. Smart Productivity Hub (Solo Project)**  
+**Key Achievements:**  
+- Developed a fully functional **productivity application** combining tasks, notes, daily planning, and a simple analytics dashboard  
+- Implemented **LocalStorage‑based data persistence** for tasks, notes, and planner entries  
+- Designed a **responsive, user‑friendly interface** using pure HTML and CSS  
+- Built modular, maintainable **vanilla JavaScript** logic for dynamic UI updates and state handling  
 
-#### **3. [LMS Analytics (Collaboration)](https://github.com/Carlton756/RDAMP_LMS_Analytics_RCHG)**  
+**Tech Stack:**  
+`HTML` `CSS` `JavaScript` `LocalStorage`  
+
+**Engineering Impact:**  
+- Demonstrated ability to build **real‑world front‑end applications** without frameworks  
+- Showcased strong skills in **DOM manipulation**, **state management**, and **UI/UX design**  
+- Delivered a lightweight, browser‑based tool that improves daily organisation and productivity  
+
+---
+
+#### **4. [LMS Analytics (Collaboration)](https://github.com/Carlton756/RDAMP_LMS_Analytics_RCHG)**  
 **Key Achievements:**  
 - Analyzed **learning management system** data to track course engagement  
 - Built **completion rate forecasting models**  
@@ -88,7 +104,7 @@ Exploratory Data Analysis (EDA)
 
 ---
 
-#### **4. [Social Media Analytics Report](https://github.com/AbdulMalik198/Social-Media-Analytics-Report)**  
+#### **5. [Social Media Analytics Report](https://github.com/AbdulMalik198/Social-Media-Analytics-Report)**  
 **Key Achievements:**  
 - Performed **sentiment analysis** on social media conversations  
 - Tracked **engagement metrics** across platforms  
