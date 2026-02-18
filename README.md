@@ -73,7 +73,7 @@ Exploratory Data Analysis (EDA)
 `HTML` `CSS` `JavaScript` `LocalStorage` `Front‑End Development`
 
 ---
-#### **3. Smart Productivity Hub (Solo Project)**  
+#### **3. [Smart Productivity Hub - Solo Project](https://github.com/AbdulMalik198/SmartProductivityHub)**  
 **Key Achievements:**  
 - Developed a fully functional **productivity application** combining tasks, notes, daily planning, and a simple analytics dashboard  
 - Implemented **LocalStorage‑based data persistence** for tasks, notes, and planner entries  
