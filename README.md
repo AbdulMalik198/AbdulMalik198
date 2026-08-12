@@ -53,18 +53,18 @@ Exploratory Data Analysis (EDA)
 
 **Business Impact:**  
 - Improved course completion rates by **15%** through targeted interventions  
-
 ---
-#### **2. [Job Application Tracker](https://github.com/AbdulMalik198/Job_Application_Tracker)**  
+#### **2. [Social Media Analytics Report](https://github.com/AbdulMalik198/Social-Media-Analytics-Report)**  
 **Key Achievements:**  
-- Built a **responsive front‑end application** for tracking job applications  
-- Implemented **CRUD functionality** (add, edit, delete) using JavaScript  
-- Added **filtering and sorting** for improved user experience  
-- Integrated **LocalStorage** for persistent client‑side data  
-- Designed a **clean, modern UI** with professional styling  
+- Performed **sentiment analysis** on social media conversations  
+- Tracked **engagement metrics** across platforms  
+- Identified **high performing content types**
 
-**Tech Stack:**  
-`HTML` `CSS` `JavaScript` `LocalStorage` `Front‑End Development`
+**Tech Stack:**
+- `Excel` `Power BI`
+
+- **Impact:**
+- Helped highlight trends and content strategies based on real user interactions.
 
 ---
 #### **3. [Smart Productivity Hub - Solo Project](https://github.com/AbdulMalik198/SmartProductivityHub)**  
@@ -81,9 +81,7 @@ Exploratory Data Analysis (EDA)
 - Demonstrated ability to build **real‑world front‑end applications** without frameworks  
 - Showcased strong skills in **DOM manipulation**, **state management**, and **UI/UX design**  
 - Delivered a lightweight, browser‑based tool that improves daily organisation and productivity  
-
 ---
-
 #### **4. [Personal Finance Dashboard](https://github.com/AbdulMalik198/Finance_Dashboard)**  
 **Key Achievements:**  
 - Built a fully responsive **web application** for tracking income, expenses, and spending patterns  
@@ -99,18 +97,19 @@ Exploratory Data Analysis (EDA)
 - Improved user financial awareness through clear visual insights  
 - Delivered a clean, intuitive UI that supports both desktop and mobile users  
 ---
-
-#### **5. [Social Media Analytics Report](https://github.com/AbdulMalik198/Social-Media-Analytics-Report)**  
+#### **5. [Job Application Tracker](https://github.com/AbdulMalik198/Job_Application_Tracker)**  
 **Key Achievements:**  
-- Performed **sentiment analysis** on social media conversations  
-- Tracked **engagement metrics** across platforms  
-- Identified **high performing content types**
--
-- **Tech Stack:**
-- Excel, Power BI
+- Built a **responsive front‑end application** for tracking job applications  
+- Implemented **CRUD functionality** (add, edit, delete) using JavaScript  
+- Added **filtering and sorting** for improved user experience  
+- Integrated **LocalStorage** for persistent client‑side data  
+- Designed a **clean, modern UI** with professional styling  
 
-- **Impact:**
-- Helped highlight trends and content strategies based on real user interactions.
+**Tech Stack:**  
+`HTML` `CSS` `JavaScript` `LocalStorage` `Front‑End Development`
+
+**Impact:** 
+- Provided a simple, organised way to track job applications during active job searches.
 
 ---
 
