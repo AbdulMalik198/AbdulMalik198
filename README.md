@@ -42,23 +42,19 @@ Exploratory Data Analysis (EDA)
 
 ### Project Highlights
 
-#### **1. [Personal Finance Dashboard](https://github.com/AbdulMalik198/Finance_Dashboard)**  
+#### **1. [LMS Analytics (Collaboration)](https://github.com/Carlton756/RDAMP_LMS_Analytics_RCHG)**  
 **Key Achievements:**  
-- Built a fully responsive **web application** for tracking income, expenses, and spending patterns  
-- Implemented **dynamic DOM manipulation** for real-time balance updates  
-- Integrated **Chart.js** to visualise category-based spending  
-- Added **LocalStorage persistence** to retain user data across sessions  
-- Developed a **CSV export feature** for offline financial analysis  
+- Analyzed **learning management system** data to track course engagement  
+- Built **completion rate forecasting models**  
+- Visualized **learner progress trends**  
 
 **Tech Stack:**  
-`HTML5` `CSS3` `JavaScript (ES6)` `Chart.js`  
+`Python` `Pandas` `Tableau` `Educational Analytics`  
 
-**Impact:**  
-- Improved user financial awareness through clear visual insights  
-- Delivered a clean, intuitive UI that supports both desktop and mobile users  
+**Business Impact:**  
+- Improved course completion rates by **15%** through targeted interventions  
 
 ---
-
 #### **2. [Job Application Tracker](https://github.com/AbdulMalik198/Job_Application_Tracker)**  
 **Key Achievements:**  
 - Built a **responsive front‑end application** for tracking job applications  
@@ -88,18 +84,20 @@ Exploratory Data Analysis (EDA)
 
 ---
 
-#### **4. [LMS Analytics (Collaboration)](https://github.com/Carlton756/RDAMP_LMS_Analytics_RCHG)**  
+#### **4. [Personal Finance Dashboard](https://github.com/AbdulMalik198/Finance_Dashboard)**  
 **Key Achievements:**  
-- Analyzed **learning management system** data to track course engagement  
-- Built **completion rate forecasting models**  
-- Visualized **learner progress trends**  
+- Built a fully responsive **web application** for tracking income, expenses, and spending patterns  
+- Implemented **dynamic DOM manipulation** for real-time balance updates  
+- Integrated **Chart.js** to visualise category-based spending  
+- Added **LocalStorage persistence** to retain user data across sessions  
+- Developed a **CSV export feature** for offline financial analysis  
 
 **Tech Stack:**  
-`Python` `Pandas` `Tableau` `Educational Analytics`  
+`HTML5` `CSS3` `JavaScript (ES6)` `Chart.js`  
 
-**Business Impact:**  
-- Improved course completion rates by **15%** through targeted interventions  
-
+**Impact:**  
+- Improved user financial awareness through clear visual insights  
+- Delivered a clean, intuitive UI that supports both desktop and mobile users  
 ---
 
 #### **5. [Social Media Analytics Report](https://github.com/AbdulMalik198/Social-Media-Analytics-Report)**  
