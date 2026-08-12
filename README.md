@@ -1,10 +1,9 @@
 # Abdulmalik
+I’m a Data Analyst with a strong interest in turning raw information into clear, meaningful insights. I work with SQL, Excel, and Power BI to clean data, explore trends, and build dashboards that support decision‑making.
 
-Hi, I’m Abdul-Malik Alegimenlen, a Software Developer with a strong foundation in web and application development using HTML, CSS, JavaScript, C#, and SQL, combined with a background in data analytics.
+Alongside my analytics work, I also have practical experience in software development. I build front‑end applications using HTML, CSS, and JavaScript, and I’ve worked with C# and basic backend concepts. This mix allows me to create solutions that are both data‑driven and user‑friendly.
 
-I enjoy building software and database-driven applications that turn raw data into useful, real-world functionality. My experience working with SQL, Python, and data visualisation tools allows me to design systems that not only run smoothly, but also produce clear, reliable, and meaningful insights.
-
-What excites me most is solving problems through code — whether that’s creating a web interface, connecting it to a database, or writing logic that transforms data into something people can use to make better decisions. I’m passionate about building clean, efficient, and user-focused applications that make information easier to access, understand, and act on.
+I enjoy learning, experimenting, and building tools that make everyday tasks easier — whether it’s analysing datasets or developing small applications.
 
 ---
 
