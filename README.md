@@ -1,26 +1,13 @@
 # Abdulmalik
-I’m a Data Analyst with a strong interest in turning raw information into clear, meaningful insights. I work with SQL, Excel, and Power BI to clean data, explore trends, and build dashboards that support decision‑making.
+I am a Data Analyst with a strong interest in turning raw information into clear, meaningful insights. I work with SQL, Excel, and Power BI to clean data, explore trends, and build dashboards that support decision making.
 
-Alongside my analytics work, I also have practical experience in software development. I build front‑end applications using HTML, CSS, and JavaScript, and I’ve worked with C# and basic backend concepts. This mix allows me to create solutions that are both data‑driven and user‑friendly.
+Alongside my analytics work, I also have practical experience in software development. I build front end applications using HTML, CSS, and JavaScript, and I have worked with C# and basic backend concepts. This mix allows me to create solutions that are both data driven and user friendly.
 
-I enjoy learning, experimenting, and building tools that make everyday tasks easier — whether it’s analysing datasets or developing small applications.
+I enjoy learning, experimenting, and building tools that make everyday tasks easier — whether it is analysing datasets or developing small applications.
 
 ---
 
 ### Technical Skills
-Programming & Development:
-JavaScript
-C#
-Python (data processing & scripting)
-SQL
-
-Web & Application Development:
-HTML
-CSS
-Front-End Development
-Back-End Logic
-Database-Driven Applications
-
 Databases & Data:
 SQL Queries (Joins, Aggregations, CRUD)
 Relational Databases
@@ -32,6 +19,18 @@ Pandas, NumPy
 Power BI
 Tableau
 Excel (Pivot Tables, Lookups, Data Models)
+
+Programming & Development:
+JavaScript
+C#
+SQL
+
+Web & Application Development:
+HTML
+CSS
+Front-End Development
+Back-End Logic
+Database-Driven Applications
 
 Development & Workflow:
 Git (Version Control)
