@@ -104,11 +104,17 @@ Exploratory Data Analysis (EDA)
 **Key Achievements:**  
 - Performed **sentiment analysis** on social media conversations  
 - Tracked **engagement metrics** across platforms  
-- Identified **high performing content types**  
+- Identified **high performing content types**
+-
+- **Tech Stack:**
+- Excel, Power BI
+
+- **Impact:**
+- Helped highlight trends and content strategies based on real user interactions.
 
 ---
 
-Open to connecting with fellow developers and anyone passionate about data‑driven solutions.
+Open to connecting anyone passionate about data‑driven solutions.
 
 🔗 Connect with me on LinkedIn: https://www.linkedin.com/in/abdulmalik-alegimenlen1010/
 
