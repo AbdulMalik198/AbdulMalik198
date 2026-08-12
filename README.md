@@ -63,7 +63,7 @@ Exploratory Data Analysis (EDA)
 **Tech Stack:**
 - `Excel` `Power BI`
 
-- **Impact:**
+ **Impact:**
 - Helped highlight trends and content strategies based on real user interactions.
 
 ---
