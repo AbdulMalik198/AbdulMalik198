@@ -1,4 +1,6 @@
 # Abdulmalik
+
+### About Me
 I am a Data Analyst with a strong interest in turning raw information into clear, meaningful insights. I work with SQL, Excel, and Power BI to clean data, explore trends, and build dashboards that support decision making.
 
 Alongside my analytics work, I also have practical experience in software development. I build front end applications using HTML, CSS, and JavaScript, and I have worked with C# and basic backend concepts. This mix allows me to create solutions that are both data driven and user friendly.
